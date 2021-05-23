@@ -13,3 +13,29 @@ The main technologies I used to implement the frontend were:
 - React.js
 - Axios
 - Material-UI
+
+## How to run locally
+
+1. Clone the repo
+
+```bash
+git clone git@github.com:marciorasf/picsize-test-web.git
+```
+
+2. Install dependencies
+
+```bash
+yarn
+```
+
+3. Make a copy of .env.example as .env
+
+```bash
+cp .env.example .env
+```
+
+4. Start the server
+
+```bash
+yarn start
+```
